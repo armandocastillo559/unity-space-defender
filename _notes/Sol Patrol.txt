@@ -1,0 +1,45 @@
+Get List for Assets
+
+
+
+PLAYER
+
+ART
+	ship model
+	
+SFX	
+	shoot sound, laser
+	die sound, explosion
+	
+VFX
+	die explosion
+
+	
+ENEMIES
+
+Enemy 1 (Shooter)
+ART
+	ship model
+		
+SFX
+	shoot sound, laser
+	die sound, explosion
+	
+VFX
+	die explosion
+	
+Enemy 2 (Bomber)
+ART
+	ship model
+	
+SFX
+	shoot sound, trash bag
+	die sound, explosion
+	
+Projectile 1 (TrashBag)
+ART	
+	projectile model, trash bag
+
+SFX 
+	collection sound, when collected
+	die sound, when shot
